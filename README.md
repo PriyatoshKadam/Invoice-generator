@@ -22,10 +22,4 @@ This project generates a PDF invoice using the ReportLab library in Python. It t
    ```bash
    [git clone https://github.com/yourusername/invoice-generator.git](https://github.com/PriyatoshKadam/Invoice-generator.git)
 
-Navigate to the project directory:
-bash
--  cd invoice-generator
-Install the required libraries:
-bash
-Copy code
--  pip install -r requirements.txt
+
